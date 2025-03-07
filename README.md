@@ -116,7 +116,8 @@ print('RMSE = ',rmse)
 
 
 ### MSE, MAE and RMSE
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c438fe10-89be-4e8c-9eda-0e436fbf83ca)
+
 
 
 
