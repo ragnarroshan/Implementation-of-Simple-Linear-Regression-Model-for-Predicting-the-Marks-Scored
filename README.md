@@ -85,31 +85,39 @@ print('RMSE = ',rmse)
 
 ## Output:
 ### Head Values
-![alt text](<Images/Screenshot 2024-08-16 154352-1.png>)
+![image](https://github.com/user-attachments/assets/f8383e2e-1bcc-4137-b1cd-fd706bd438fb)
+
 
 ### Tail Values
-![alt text](<Images/Screenshot 2024-08-16 154419-1.png>)
+
+![image](https://github.com/user-attachments/assets/d3b67821-e803-4413-9f0f-415f6b04a21f)
 
 ### X Values
-![alt text](<Images/Screenshot 2024-08-16 152702.png>)
+![image](https://github.com/user-attachments/assets/a4a3710b-6d70-4286-a728-cc641ba21638)
+
 
 ### y Values
-![alt text](<Images/Screenshot 2024-08-16 153116-1.png>)
+
 
 ### Predicted Values
-![alt text](<Screenshot 2024-08-16 161908.png>)
+
+![image](https://github.com/user-attachments/assets/eee55077-1f9e-4a60-9471-d5e2a131a6e8)
 
 ### Actual Values
-![alt text](<Images/Screenshot 2024-08-16 153301.png>)
+![image](https://github.com/user-attachments/assets/0b4bed37-2dea-4330-abcc-cfb278976f69)
+
 
 ### Training Set
-![alt text](<Images/download (8).png>)
+![image](https://github.com/user-attachments/assets/d8a0d3b8-d698-4bbf-a7d1-505f963a0734)
+
 
 ### Testing Set
-![alt text](<Images/download (7)-1.png>)
+![image](https://github.com/user-attachments/assets/83dc9c01-c442-4aaf-ad30-245eb1905a07)
+
 
 ### MSE, MAE and RMSE
-![alt text](<Images/Screenshot 2024-08-16 153958-1.png>)
+![Uploading image.png…]()
+
 
 
 ## Result:
